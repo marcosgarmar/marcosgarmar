@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for **an internship to start on March 2022**
 
-- ♻ I’m interested in **Agriculture, Green Technologies, technology, sports**
+- ♻ I’m interested in **Agriculture, Green Technologies, Technology, Sports**
 
 - 📫 How to reach me **marcos.wiskinto@gmail.com // marcosgarmar@usal.es**
 
