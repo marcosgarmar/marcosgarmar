@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **marcos.wiskinto@gmail.com // marcosgarmar@usal.es**
 
-- 🎷 My princSkills **C, C++, arduino , PHP ,Haskell, HTML, CSS , Java ,Git, Linux Bash**
+- 🎷 My Skills **C, C++, arduino , PHP ,Haskell, HTML, CSS , Java ,Git, Linux Bash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
