@@ -1,7 +1,4 @@
-### Hi there 👋
- 
-
-<h3 align="center">I´m Marcos Garcia Martin , from Spain</h3>
+### Hi there 👋 I´m Marcos Garcia Martin , from Spain.
 
 - 👨‍🎓 I’m currently studying **Computer Science at Universidad de Salamanca**
 
