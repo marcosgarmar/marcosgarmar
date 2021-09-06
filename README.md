@@ -1,4 +1,8 @@
 ### Hi there 👋
+<p align="center">
+<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
+ </p><br>
+ 
 
 <!--
 **marcosgarmar/marcosgarmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
