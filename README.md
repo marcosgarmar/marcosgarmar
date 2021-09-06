@@ -2,7 +2,7 @@
 
 - 👨‍🎓 I’m currently studying **Computer Science at Universidad de Salamanca** . 
 
-- 👨‍🎓  Erasmus exchange **2019-2020** in **Cracow University of Technology (Politechnika Krakowska), Poland**.
+- ✈  Erasmus exchange **2019-2020** in **Cracow University of Technology (Politechnika Krakowska), Poland**.
 
 - 🌱 I’m currently learning about **embedded systems, IoT, docker & Solidity**
 
