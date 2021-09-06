@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about **embedded systems, IoT, docker & Solidity**
 
-- 📢 Languages **Spanish (native) & English (Profesional)**
+- 📢 Languages **Spanish (native) & English (profesional)**
 
 - 👯‍ I’m looking to collaborate on open source **Iot/agriculture/greentechture projects**
 
