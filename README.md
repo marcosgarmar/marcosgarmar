@@ -6,11 +6,11 @@
 
 - 📢 Languages **Spanish (native) & English (Profesional)**
 
-- 👯‍ ♂️I’m looking to collaborate on open source **Iot/agriculture/greentechture projects**
+- 👯‍ I’m looking to collaborate on open source **Iot/agriculture/greentechture projects**
 
 - 🤝 I’m looking for **an internship to start on March 2022**
 
-- 👯 I’m interested in **Agriculture, Green Technologies, technology, sports**
+- ♻ I’m interested in **Agriculture, Green Technologies, technology, sports**
 
 - 📫 How to reach me **marcos.wiskinto@gmail.com // marcosgarmar@usal.es**
 
