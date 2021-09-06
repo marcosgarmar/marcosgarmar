@@ -6,7 +6,7 @@
 
 - 📢 Languages **Spanish (native) & English (Profesional)**
 
-- I’m looking to collaborate on open source **Iot/agriculture/greentechture projects**
+- 👯‍ ♂️I’m looking to collaborate on open source **Iot/agriculture/greentechture projects**
 
 - 🤝 I’m looking for **an internship to start on March 2022**
 
